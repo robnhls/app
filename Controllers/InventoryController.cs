@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using app.Models;
 
+// comment two of two
+
 namespace app.Controllers
 {
     public class InventoryController : Controller

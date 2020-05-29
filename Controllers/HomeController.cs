@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using app.Models;
 
+// Comment one of two
+//  Soo many comments
+
 namespace app.Controllers
 {
     public class HomeController : Controller
